@@ -2,3 +2,13 @@ compile
 test
 vim
 exit
+compile
+fg
+compile
+~compile
+compile
+run
+test
+compile
+test
+submit tavares.nju@gmail.com cxSPm2JI6qQdJzT9
